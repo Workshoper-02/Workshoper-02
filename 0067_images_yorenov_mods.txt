@@ -634,7 +634,7 @@ window.yorenovNewHudAssets = {
     justify-content: center;
     align-items: center;
     border-radius: 100%;
-    border: 0.65vh solid #000000 !important
+    border: none
 }
 
 body #app .hud-radmir-radar__map {
