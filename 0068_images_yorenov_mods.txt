@@ -20,7 +20,7 @@ window.yorenovNewHudAssets = {
 		    right: 1.2vw;
 		    top: 4vh;
 		    width: 2.96vh;
-		    height: 2.96vh;
+		    height: 3vh;
 		    border-radius: 10vh;
 		    background: radial-gradient(93.1% 93.1% at 126.72% 6.9%, #eb00ff 0, #eb00ff00 100%), linear-gradient(129.39deg, #f5be09 30.88%, #e9651b 98.06%);
 		    display: flex;
@@ -626,6 +626,16 @@ window.yorenovNewHudAssets = {
 
 
 		/* === ДОП СТИЛИ === */
+		#app .hud-radmir-radar__map {
+    width: 26.3vh !important;
+    height: 16.9vh !important;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 100%;
+    border: none
+}
 
 		/* === НЕ НУЖНО ТРОГАТЬ === */
 		#app .capture-table {
