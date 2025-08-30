@@ -4,7 +4,7 @@ window.yorenovNewHudAssets = {
 		/*---------- Размер логотипа сервера ----------*/
 		.old-logo img {
 		    width: 25vh;
-		    height: 6.3vh;
+		    height: 6.6vh;
 		    margin-right: 2vh;
 		}
 
@@ -18,9 +18,9 @@ window.yorenovNewHudAssets = {
 		.old-bonus {
 		    position: absolute;
 		    right: 1.2vw;
-		    top: 4vh;
+		    top: -3vh;
 		    width: 2.96vh;
-		    height: -3vh;
+		    height: 2.96vh;
 		    border-radius: 10vh;
 		    background: radial-gradient(93.1% 93.1% at 126.72% 6.9%, #eb00ff 0, #eb00ff00 100%), linear-gradient(129.39deg, #f5be09 30.88%, #e9651b 98.06%);
 		    display: flex;
