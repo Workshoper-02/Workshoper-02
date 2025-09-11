@@ -307,7 +307,7 @@ window.yorenovNewHudAssets = {
 		#app .inventory-extra__container,
 		#app .inventory-main {
 		    padding: 2vh;
-		    background: rgb(75, 43, 128, 0.8);
+		    background: rgba(190, 190, 190, 0.8);
 		    border-radius: 1.1vh;
 		    border: 0;
 		}
@@ -463,7 +463,7 @@ window.yorenovNewHudAssets = {
 		}
 
 		#app .player-interaction-favorite {
-		    background: rgb(75, 43, 128, 0.8)
+		    background: rgba(190, 190, 190, 0.8)
 		}
 
 		#app .player-interaction-favorite:hover {
