@@ -290,13 +290,13 @@ window.yorenovNewHudAssets = {
 		}
 
 		#app .inventory-container__info__container {
-		    background: linear-gradient(45deg, #4b2b80cc) !important;
+		    background: linear-gradient(45deg, #bebebecc) !important;
 		}
 
 		#app .inventory-action__modal,
 		#app .inventory-extra__container,
 		#app .inventory-main {
-		    background: linear-gradient(45deg, #4b2b80cc);
+		    background: linear-gradient(45deg, #bebebecc);
 		}
 
 		#app .inventory-main__after,
@@ -365,7 +365,7 @@ window.yorenovNewHudAssets = {
 		.inventory-container__info__container {
 		    border: none !important;
 		    padding-top: .8vh !important;
-		    background: rgba(75, 43, 128, 0.8) !important;
+		    background: rgba(190, 190, 190, 0.8) !important;
 		    border-radius: 1.1vh !important;
 		    overflow: hidden;
 		}
@@ -433,17 +433,17 @@ window.yorenovNewHudAssets = {
 		}
 
 		#app .player-interaction__inner {
-		    background: #4b2b80cc;
+		    background: #bebebecc;
 		    border: .09vh solid #000000c2
 		}
 
 		#app .player-interaction-layer {
-		    background: rgba(75, 43, 128, 0.8);
+		    background: rgba(190, 190, 190, 0.8);
 		    border: none
 		}
 
 		#app .player-interaction__container {
-		    background: rgba(75, 43, 128, 0.8);
+		    background: rgba(190, 190, 190, 0.8);
 		    border: none
 		}
 
@@ -485,7 +485,7 @@ window.yorenovNewHudAssets = {
 
 		/* ------- Меню заправки ------- */
 		#app .fuel__container {
-		    background: #4b2b80cc
+		    background: #bebebecc
 		}
 
 		#app .fuel__button .text:before {
@@ -634,7 +634,7 @@ window.yorenovNewHudAssets = {
     justify-content: center;
     align-items: center;
     border-radius: 2vh;
-    border: 0.65vh solid #4b2b80cc !important
+    border: 0.65vh solid #bebebecc !important
 }
 
 body #app .hud-radmir-radar__map {
