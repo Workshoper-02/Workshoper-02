@@ -3,8 +3,8 @@ window.yorenovNewHudAssets = {
 
 		/*---------- Размер логотипа сервера ----------*/
 		.old-logo img {
-		    width: 24vh;
-		    height: 6.2vh;
+		    width: 25vh;
+		    height: 6.4vh;
 		    margin-right: 2vh;
 		}
 
@@ -634,7 +634,7 @@ window.yorenovNewHudAssets = {
     justify-content: center;
     align-items: center;
     border-radius: 2vh;
-    border: 0.65vh solid #000000 !important
+    border: 0.65vh solid #4b2b80cc !important
 }
 
 body #app .hud-radmir-radar__map {
