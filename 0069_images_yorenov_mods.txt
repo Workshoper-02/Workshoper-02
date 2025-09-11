@@ -33,7 +33,7 @@ window.yorenovNewHudAssets = {
 
 		/* ------- Окна ------- */
 		#app .modal-container-wrapper {
-		    background: rgba(75, 43, 128, 0.8) !important;
+		    background: rgba(190, 190, 190, 0.8) !important;
 		    border: 0.19vh solid #ffffff0d;
 		    border-radius: 2.5vh !important;
 		}
