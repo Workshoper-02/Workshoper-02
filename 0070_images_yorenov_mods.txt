@@ -3,7 +3,7 @@ window.yorenovNewHudAssets = {
 
 		/*---------- Размер логотипа сервера ----------*/
 		.old-logo img {
-		    width: 25vh;
+		    width: 27vh;
 		    height: 6.4vh;
 		    margin-right: 2vh;
 		}
