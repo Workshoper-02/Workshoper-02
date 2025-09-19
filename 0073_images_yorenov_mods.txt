@@ -18,7 +18,7 @@ window.yorenovNewHudAssets = {
 		.old-bonus {
 		    position: absolute;
 		    right: 1.2vw;
-		    top: 4vh;
+		    top: -0.4vh;
 		    width: 2.96vh;
 		    height: 2.96vh;
 		    border-radius: 10vh;
