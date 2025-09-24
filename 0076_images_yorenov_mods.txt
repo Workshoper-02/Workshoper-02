@@ -205,7 +205,7 @@ window.yorenovNewHudAssets = {
 		}
 
 		body .window-table__item:hover {
-		    background: #ffffff50;
+		    background: #64646450;
 		    border-color: none
 		}
 
