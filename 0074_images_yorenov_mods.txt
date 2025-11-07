@@ -626,6 +626,9 @@ window.yorenovNewHudAssets = {
 
 
 		/* === ДОП СТИЛИ === */
+		.hud-radmir-radar__radar-border-helloween {
+			display: none !important;
+		}
 		#app .hud-radmir-radar__map {
 		    width: 26.3vh !important;
 		    height: 16.9vh !important;
@@ -693,15 +696,15 @@ window.yorenovNewHudAssets = {
 		}
 
 		#app .hud-radmir-radar__radar-border_new-year {
-		    display: none !important
+		    display: none !important;
 		}
 
 		#app .hud-radmir-radar__radar-border_helloween {
-		    display: none !important
+		    display: none !important;
 		}
 
 		#app .hud-radmir-radar__radar-bats {
-		    display: none !important
+		    display: none !important;
 		}
 
 		.hud-hassle-map .map-mask {
