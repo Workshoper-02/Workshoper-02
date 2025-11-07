@@ -626,7 +626,7 @@ window.yorenovNewHudAssets = {
 
 
 		/* === ДОП СТИЛИ === */
-		#app .hud-radmir-radar__radar-border_helloween {
+		.hud-radmir-radar__radar-border_helloween {
 		    display: none !important;
 		}
 		
