@@ -629,7 +629,6 @@ window.yorenovNewHudAssets = {
 		.hud-radmir-radar__radar-border_helloween {
 		    display: none !important;
 		}
-		
 		#app .hud-radmir-radar__map {
 		    width: 26.3vh !important;
 		    height: 16.9vh !important;
