@@ -712,8 +712,8 @@ window.yorenovNewHudAssets = {
 		    display: none;
 		}
 
-		#app .hud-radmir-radar__radar-border_helloween {
-		    display: none !important;
+		#app .hud-radmir-radar__radar-border-helloween {
+			display: none !important;
 		}
 
 		#app .hud-radmir-radar__radar-bats {
