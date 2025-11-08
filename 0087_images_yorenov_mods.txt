@@ -3,7 +3,7 @@ window.yorenovNewHudAssets = {
 
 		/*---------- Размер логотипа сервера ----------*/
 		.old-logo img {
-		    width: 23vh;
+		    width: 24vh;
 		    height: 6.3vh;
 		    margin-right: 2vh;
 		}
@@ -19,7 +19,7 @@ window.yorenovNewHudAssets = {
 		    position: absolute;
 		    right: 1.2vw;
 		    top: 4vh;
-		    width: 2.96vh;
+		    width: -0.4vh;
 		    height: 2.96vh;
 		    border-radius: 10vh;
 		    background: radial-gradient(93.1% 93.1% at 126.72% 6.9%, #eb00ff 0, #eb00ff00 100%), linear-gradient(129.39deg, #f5be09 30.88%, #e9651b 98.06%);
@@ -627,7 +627,7 @@ window.yorenovNewHudAssets = {
 
 		/* === ДОП СТИЛИ === */
 		.hud-radmir-radar__radar-border_helloween {
-				    display: none !important;
+		    display: none !important;
 		}
 		#app .hud-radmir-radar__map {
 		    width: 26.3vh !important;
@@ -699,8 +699,8 @@ window.yorenovNewHudAssets = {
 		    display: none;
 		}
 
-		#app .hud-radmir-radar__radar-border_helloween {
-		    display: none !important;
+		#app .hud-radmir-radar__radar-border-helloween {
+			display: none !important;
 		}
 
 		#app .hud-radmir-radar__radar-bats {
