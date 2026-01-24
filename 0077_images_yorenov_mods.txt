@@ -745,6 +745,7 @@ window.yorenovNewHudAssets = {
 		    width: 100vw;
 		    height: 100vh;
 		    position: relative;
+			margin-left: 10px;
 		}
 
 		.old-top {
