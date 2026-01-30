@@ -807,6 +807,7 @@ body #app .hud-radmir-speedometer-secondary__wash {
     position: relative;
     left: 0;
     top: 0
+	color: #e90a0a !important;
 }
 
 body #app .hud-radmir-speedometer-secondary__fill {
@@ -833,11 +834,6 @@ body #app .hud-radmir-speedometer-secondary__data-value svg path {
 
 body #app .hud-radmir-speedometer-secondary__data-text {
     display: none
-}
-
-body #app .hud-radmir-speedometer-indicators__item.fuel svg path {
-    animation: fuelBlink 1s infinite !important; 
-    fill: #ffba3b !important;
 }
 
 #app>div.app>div:first-child>div>div.hud>div>div.hud-radmir-speedometer-main>div.hud-radmir-speedometer-main__speed.hud-radmir-speedometer-main__speed_helloween>div.hud-radmir-speedometer-mileage.hud-radmir-speedometer-main__mileage.hud-radmir-speedometer-main__hidden>div>div:nth-child(1)>div:nth-child(1) {
