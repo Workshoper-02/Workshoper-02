@@ -835,14 +835,9 @@ body #app .hud-radmir-speedometer-secondary__data-text {
     display: none
 }
 
-body #app .hud-radmir-speedometer-indicators__item.fuel-low svg path {
+body #app .hud-radmir-speedometer-indicators__item.fuel svg path {
     animation: fuelBlink 1s infinite;
     fill: #ffba3b !important;
-}
-
-@keyframes fuelBlink {
-    0%, 100% { opacity: 1; }
-    50% { opacity: 0.3; }
 }
 
 #app>div.app>div:first-child>div>div.hud>div>div.hud-radmir-speedometer-main>div.hud-radmir-speedometer-main__speed.hud-radmir-speedometer-main__speed_helloween>div.hud-radmir-speedometer-mileage.hud-radmir-speedometer-main__mileage.hud-radmir-speedometer-main__hidden>div>div:nth-child(1)>div:nth-child(1) {
