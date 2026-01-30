@@ -836,7 +836,7 @@ body #app .hud-radmir-speedometer-secondary__data-text {
 }
 
 body #app .hud-radmir-speedometer-indicators__item.fuel svg path {
-    animation: fuelBlink 1s infinite;
+    animation: fuelBlink 1s infinite !important; 
     fill: #ffba3b !important;
 }
 
