@@ -807,7 +807,6 @@ body #app .hud-radmir-speedometer-secondary__wash {
     position: relative;
     left: 0;
     top: 0
-	color: #e90a0a !important;
 }
 
 body #app .hud-radmir-speedometer-secondary__fill {
