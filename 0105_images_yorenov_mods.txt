@@ -827,10 +827,6 @@ body #app .hud-radmir-speedometer-secondary__data-value svg {
     margin-top: 0
 }
 
-body #app .hud-radmir-speedometer-secondary__fuel svg path {
-    fill: #db1b1b
-}
-
 body #app .hud-radmir-speedometer-secondary__data-value svg path {
     fill: #fff
 }
