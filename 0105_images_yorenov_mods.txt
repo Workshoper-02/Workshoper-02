@@ -735,6 +735,12 @@ body #app .hud-radmir-speedometer-indicators__item {
     width: 4vh;
     height: 4vh;
     margin-right: 1vh !important
+	animation: blink 1s ease_out;
+}
+
+@keyframes blink {
+	0%, 100% { opacity: 1; }
+	50% { opacity: 0; }
 }
 
 body #app .hud-radmir-speedometer-indicators__item svg path {
