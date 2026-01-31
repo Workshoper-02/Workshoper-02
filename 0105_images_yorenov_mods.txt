@@ -738,7 +738,7 @@ body #app .hud-radmir-speedometer-indicators__item {
 }
 
 body #app .hud-radmir-speedometer-indicators__item svg path {
-    fill: #ffffff !important
+    fill: #fff !important
 }
 
 body #app .hud-radmir-speedometer-indicators__item:nth-child(2) {
@@ -1667,5 +1667,3 @@ const oldInfoCard = {
 };
 
 oldInfoCard.hookAndReplaceNewInfoCard();
-
-data:image/svg+xml;base64,PHN2ZyB2ZXJzaW9uPSIxLjIiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgdmlld0JveD0iMCAwIDE4MCAyMDMiIHdpZHRoPSIxODAiIGhlaWdodD0iMjAzIj4KCTx0aXRsZT5zZWNvbmRhcnktc3ZnPC90aXRsZT4KCTxzdHlsZT4KCTwvc3R5bGU+Cjwvc3ZnPg==
