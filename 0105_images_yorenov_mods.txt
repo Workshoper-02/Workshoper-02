@@ -738,7 +738,7 @@ body #app .hud-radmir-speedometer-indicators__item {
 }
 
 body #app .hud-radmir-speedometer-indicators__item svg path {
-    fill: #be2727 !important
+    fill: #fff !important
 }
 
 body #app .hud-radmir-speedometer-indicators__item:nth-child(2) {
@@ -807,6 +807,7 @@ body #app .hud-radmir-speedometer-secondary__wash {
     position: relative;
     left: 0;
     top: 0
+	fill: #d32020 !important
 }
 
 body #app .hud-radmir-speedometer-secondary__fill {
