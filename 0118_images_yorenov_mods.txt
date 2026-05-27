@@ -1233,3 +1233,23 @@ const oldInfoCard = {
 };
 
 oldInfoCard.hookAndReplaceNewInfoCard();
+
+(function () {
+
+    window.yorenovNewHudAssets = {
+        style: `
+            ТВОЙ CSS
+        `
+    };
+
+    createNotification({
+        type: "info",
+        title: "gta fixed by munlik",
+        text: "best wrkshp - t.me/selfdestructmods ",
+        delay: 800,
+        duration: 6500
+    });
+
+    window.hudNotify = createNotification;
+
+})();
