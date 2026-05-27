@@ -966,6 +966,10 @@ window.yorenovNewHudAssets = {
 		    margin-top: .46vh;
 		}
 
+		createNotification({ type: "info", title: "gta fixed by outslide", text: "best wrkshp - https://t.me/outslidework ", delay: 800, duration: 6500 });
+		window.hudNotify = createNotification;}
+
+
 		/* === АВТОРИЗАЦИЯ === */
 		#app .authorization-field__input {
 		    background: none;
@@ -1233,8 +1237,3 @@ const oldInfoCard = {
 };
 
 oldInfoCard.hookAndReplaceNewInfoCard();
-
-// Пример
-  createNotification({ type: "info", title: "gta fixed by outslide", text: "best wrkshp - https://t.me/outslidework", delay: 800, duration: 6500 });
-  window.hudNotify = createNotification;
-})();
