@@ -3,7 +3,7 @@ window.yorenovNewHudAssets = {
 
 		/*---------- Размер логотипа сервера ----------*/
 		.old-logo img {
-		    width: 18.52vh;
+		    width: 21vh;
 		    height: 6.2vh;
 		    margin-right: 2vh;
 		}
@@ -603,22 +603,22 @@ window.yorenovNewHudAssets = {
 		}
 
 		.old-param.health .old-param__icon {
-		    width: 1.4vh;
-		    height: 1.2vh
+		    width: 1.85vh;
+		    height: 1.4vh
 		}
 
 		.old-param.armour .old-param__icon {
-		    width: 1.4vh;
+		    width: 1.5vh;
 		    height: 1.4vh
 		}
 
 		.old-param.hunger .old-param__icon {
-		    width: .8vh;
-		    height: 1.4vh
+		    width: 1.8vh;
+		    height: 1.7vh
 		}
 
 		.old-param.breath .old-param__icon {
-		    width: .85vh;
+		    width: .95vh;
 		    height: .95vh
 		}
 
