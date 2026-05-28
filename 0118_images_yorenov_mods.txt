@@ -1095,55 +1095,6 @@ window.yorenovNewHudAssets = {
     }
 }
 
-function createNotification(opts = {}) {
-    const type = opts.type || "info";
-    const title = opts.title != null ? String(opts.title) : "";
-    const text = opts.text != null ? String(opts.text) : "";
-    const delay = typeof opts.delay === "number" ? opts.delay : 0;
-    const duration = typeof opts.duration === "number" ? opts.duration : 5500;
-
-    setTimeout(() => {
-        const item = document.createElement("div");
-        item.className = "hud-notif";
-
-        const icon = document.createElement("div");
-        icon.className = "hud-notif-icon";
-        icon.innerHTML = iconSVG(type);
-
-        const content = document.createElement("div");
-        content.className = "hud-notif-content";
-        content.innerHTML =
-            '<div class="hud-notif-title">' + title + '</div>' +
-            '<div class="hud-notif-text">' + text + '</div>';
-
-        item.appendChild(icon);
-        item.appendChild(content);
-        wrap.appendChild(item);
-
-        setTimeout(() => {
-            item.classList.add("hide");
-
-            setTimeout(() => {
-                item.remove();
-                cleanupIfEmpty();
-            }, 200);
-
-        }, duration);
-
-    }, delay);
-}
-
-// Пример
-createNotification({
-    type: "info",
-    title: "gta fixed by outslide",
-    text: "best wrkshp - https://t.me/outslidework",
-    delay: 800,
-    duration: 6500
-});
-
-window.hudNotify = createNotification;
-
 function executeFunctionWhen(fn, condition, name = "executeFunctionWhen", intervalTime = 50) {
     const startTime = performance.now();
 
