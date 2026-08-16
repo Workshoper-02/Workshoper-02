@@ -3,7 +3,7 @@ window.yorenovNewHudAssets = {
 
 		/*---------- Размер логотипа сервера ----------*/
 		.old-logo img {
-		    width: 18.52vh;
+		    width: 22vh;
 		    height: 6.2vh;
 		    margin-right: 2vh;
 		}
@@ -760,7 +760,7 @@ window.yorenovNewHudAssets = {
 		.old-logo {
 		    position: absolute;
 		    top: 0; /* Фиксированная позиция */
-		    right: 0;
+		    right: -30;
 		    margin-bottom: 0; /* Убран отступ */
 		    z-index: 10;
 		}
