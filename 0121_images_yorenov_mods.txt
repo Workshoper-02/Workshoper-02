@@ -1295,12 +1295,12 @@ window.yorenovNewHudAssets = {
 
 		.old-param.health {
 		    margin-top: 0;
-		    margin-left: 35vh;
+		    margin-left: -35vh;
 		}
 
 		.old-param.armour,
 		.old-param__value {
-		    margin-left: 35vh;
+		    margin-left: -35vh;
 		}
 
 		.old-param__progress,
@@ -1334,7 +1334,7 @@ window.yorenovNewHudAssets = {
 
 		.old-param.hunger {
 			position: relative;
-		    margin-left: 35vh;
+		    margin-left: -35vh;
 		}
 
 		.old-param.breath {
