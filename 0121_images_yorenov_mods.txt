@@ -1301,7 +1301,7 @@ window.yorenovNewHudAssets = {
 
 		.old-param.armour,
 		.old-param__value {
-		    margin-left: .93vh;
+		    margin-left: 1.85vh;
 			transform: translateX(8vh) !important;
 			font-size: 0 !important;
             color: transparent !important;
@@ -1340,7 +1340,7 @@ window.yorenovNewHudAssets = {
 
 		.old-param.hunger {
 			position: relative;
-		    margin-left: .09vh;
+		    margin-left: 1.85vh;
 			transform: translateX(8vh) !important;
 			border-radius: 0px;
 		}
