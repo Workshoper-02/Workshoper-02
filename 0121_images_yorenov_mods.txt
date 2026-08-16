@@ -1295,7 +1295,7 @@ window.yorenovNewHudAssets = {
 		.old-param.health {
 		    margin-top: 0;
 		    margin-left: 1.85vh;
-			transform: translateX(6vh) !important;
+			transform: translateX(6.1vh) !important;
 			border-radius: 0px;
 		}
 
@@ -1341,7 +1341,7 @@ window.yorenovNewHudAssets = {
 		.old-param.hunger {
 			position: relative;
 		    margin-left: 1.85vh;
-			transform: translateX(6vh) !important;
+			transform: translateX(6.3vh) !important;
 			border-radius: 0px;
 		}
 
