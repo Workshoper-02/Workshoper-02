@@ -1295,6 +1295,7 @@ window.yorenovNewHudAssets = {
 		.old-param.health {
 		    margin-top: 0;
 		    margin-left: 1.85vh;
+			transform: translateX(5vh) !important;
 		}
 
 		.old-param.armour,
