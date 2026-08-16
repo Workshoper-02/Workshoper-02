@@ -599,7 +599,7 @@ window.yorenovNewHudAssets = {
 		.old-money img {
 		    width: 2.5vh;
 		    height: 2.5vh;
-		    margin-right: 1.2vh
+		    margin-right: -10vh
 		}
 
 		.old-param.health .old-param__icon {
@@ -1279,8 +1279,6 @@ window.yorenovNewHudAssets = {
 		    font-style: Oslo;
 		    font-size: 3.1vh;
 		    text-shadow: 0 0 .46vh #00000080;
-			right: -20vh;
-			top: 1.2vh;
 		}
 
 		.old-params__content {
