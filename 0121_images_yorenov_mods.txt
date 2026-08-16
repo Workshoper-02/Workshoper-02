@@ -1295,14 +1295,14 @@ window.yorenovNewHudAssets = {
 		.old-param.health {
 		    margin-top: 0;
 		    margin-left: 1.85vh;
-			transform: translateX(8vh) !important;
+			transform: translateX(6vh) !important;
 			border-radius: 0px;
 		}
 
 		.old-param.armour,
 		.old-param__value {
 		    margin-left: 1.85vh;
-			transform: translateX(8vh) !important;
+			transform: translateX(6vh) !important;
 			font-size: 0 !important;
             color: transparent !important;
 			text-shadow: none !important;
@@ -1341,14 +1341,14 @@ window.yorenovNewHudAssets = {
 		.old-param.hunger {
 			position: relative;
 		    margin-left: 1.85vh;
-			transform: translateX(8vh) !important;
+			transform: translateX(6vh) !important;
 			border-radius: 0px;
 		}
 
 		.old-param.breath {
 		    margin-left: -1vh;
 		    margin-top: 1.5vh;
-			transform: translateX(8vh) !important;
+			transform: translateX(6vh) !important;
 			border-radius: 0px;
 		}
 
