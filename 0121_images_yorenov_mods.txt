@@ -760,7 +760,7 @@ window.yorenovNewHudAssets = {
 		.old-logo {
 		    position: absolute;
 		    top: 0; /* Фиксированная позиция */
-		    right: -70;
+		    right: 70;
 		    margin-bottom: 0; /* Убран отступ */
 		    z-index: 10;
 		}
