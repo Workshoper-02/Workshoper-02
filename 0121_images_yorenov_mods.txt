@@ -1270,6 +1270,7 @@ window.yorenovNewHudAssets = {
 		    height: 13.5vh;
 		    position: relative;
 		    z-index: 1;
+			left: 3vh;
 		}
 
 		.old-money {
