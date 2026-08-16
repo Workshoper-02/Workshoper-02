@@ -1341,7 +1341,7 @@ window.yorenovNewHudAssets = {
 		.old-param.hunger {
 			position: relative;
 		    margin-left: 1.85vh;
-			transform: translateX(6.3vh) !important;
+			transform: translateX(6.6vh) !important;
 			border-radius: 0px;
 		}
 
