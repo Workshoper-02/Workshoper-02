@@ -1336,7 +1336,7 @@ window.yorenovNewHudAssets = {
 
 		.old-param.hunger {
 			position: relative;
-		    margin-left: 0.3vh;
+		    margin-left: 1vh;
 		}
 
 		.old-param.breath {
