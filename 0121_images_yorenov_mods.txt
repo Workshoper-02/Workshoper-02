@@ -1274,7 +1274,6 @@ window.yorenovNewHudAssets = {
 
 		.old-money {
 			transform: translateX(12vh) !important;
-			margin-bottom: 4vh;
 		    justify-content: flex-end;
 		    font-family: "Oslo-Black";
 		    font-weight: 900;
