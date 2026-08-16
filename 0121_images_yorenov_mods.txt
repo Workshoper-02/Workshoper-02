@@ -1274,11 +1274,13 @@ window.yorenovNewHudAssets = {
 
 		.old-money {
 		    justify-content: flex-end;
-		    font-family: "GothamPro Black Italic";
+		    font-family: "Oslo-Black";
 		    font-weight: 900;
-		    font-style: italic;
-		    font-size: 2.59vh;
+		    font-style: Oslo;
+		    font-size: 3.1vh;
 		    text-shadow: 0 0 .46vh #00000080;
+			right: 8.5vh;
+			top: 1.2vh;
 		}
 
 		.old-params__content {
@@ -1294,11 +1296,13 @@ window.yorenovNewHudAssets = {
 		.old-param.health {
 		    margin-top: 0;
 		    margin-left: 1.85vh;
+			left:0;
 		}
 
 		.old-param.armour,
 		.old-param__value {
 		    margin-left: .93vh;
+			left:0;
 		}
 
 		.old-param__progress,
@@ -1331,12 +1335,14 @@ window.yorenovNewHudAssets = {
 		}
 
 		.old-param.hunger {
-		    margin-left: .09vh;
+			position: relative;
+		    margin-left: .93vh;
 		}
 
 		.old-param.breath {
 		    margin-left: -1vh;
 		    margin-top: 1.5vh;
+			left:0;
 		}
 
 		.old-wanted {
