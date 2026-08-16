@@ -1270,7 +1270,6 @@ window.yorenovNewHudAssets = {
 		    height: 13.5vh;
 		    position: relative;
 		    z-index: 1;
-			left: 3vh;
 		}
 
 		.old-money {
@@ -1296,8 +1295,7 @@ window.yorenovNewHudAssets = {
 
 		.old-param.health {
 		    margin-top: 0;
-		    margin-left: 1.85vh;
-			left:0;
+		    margin-left: 15vh;
 		}
 
 		.old-param.armour,
