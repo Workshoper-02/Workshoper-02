@@ -11,13 +11,13 @@ window.yorenovNewHudAssets = {
 		/* ------- х2 х3 ------- */
 
 		body .old-bonus {
-		    background: #000000ef;
+		    background: #00000000;
 		    font-style: normal;
 		}
 
 		.old-bonus {
 		    position: absolute;
-		    right: 1.2vw;
+		    right: -0.7vw;
 		    top: 4vh;
 		    width: 2.96vh;
 		    height: 2.96vh;
