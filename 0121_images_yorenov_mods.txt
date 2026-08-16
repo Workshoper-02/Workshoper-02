@@ -839,9 +839,10 @@ window.yorenovNewHudAssets = {
 		.old-money {
 		    justify-content: flex-end;
 			margin-right: -10vh;
-		    font-family: "GothamPro Black Italic";
+			margin-bottom: 2vh;
+		    font-family: "Oslo-Black";
 		    font-weight: 900;
-		    font-style: italic;
+		    font-style: Oslo;
 		    font-size: 2.59vh;
 		    text-shadow: 0 0 .46vh #00000080;
 		}
