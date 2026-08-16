@@ -1296,7 +1296,7 @@ window.yorenovNewHudAssets = {
 		    margin-top: 0;
 		    margin-left: 1.85vh;
 			transform: translateX(8vh) !important;
-			border-radius: 999px;
+			border-radius: 0px;
 		}
 
 		.old-param.armour,
@@ -1306,7 +1306,7 @@ window.yorenovNewHudAssets = {
 			font-size: 0 !important;
             color: transparent !important;
 			text-shadow: none !important;
-			border-radius: 999px;
+			border-radius: 0px;
 		}
 
 		.old-param__progress,
@@ -1314,7 +1314,7 @@ window.yorenovNewHudAssets = {
 		    width: 9.26vh;
 		    height: .46vh;
 		    background-color: #0000004d;
-		    border-radius: 999px;
+		    border-radius: 0px;
 		}
 
 		.old-progress__value {
@@ -1342,14 +1342,14 @@ window.yorenovNewHudAssets = {
 			position: relative;
 		    margin-left: .09vh;
 			transform: translateX(8vh) !important;
-			border-radius: 999px;
+			border-radius: 0px;
 		}
 
 		.old-param.breath {
 		    margin-left: -1vh;
 		    margin-top: 1.5vh;
 			transform: translateX(8vh) !important;
-			border-radius: 999px;
+			border-radius: 0px;
 		}
 
 		.old-wanted {
