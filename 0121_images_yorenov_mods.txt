@@ -1296,12 +1296,14 @@ window.yorenovNewHudAssets = {
 		    margin-top: 0;
 		    margin-left: 1.85vh;
 			transform: translateX(6vh) !important;
+			display: none !important;
 		}
 
 		.old-param.armour,
 		.old-param__value {
 		    margin-left: .93vh;
 			transform: translateX(6vh) !important;
+			display: none !important;
 		}
 
 		.old-param__progress,
@@ -1337,12 +1339,15 @@ window.yorenovNewHudAssets = {
 			position: relative;
 		    margin-left: .09vh;
 			transform: translateX(6vh) !important;
+			display: none !important;
 		}
 
 		.old-param.breath {
 		    margin-left: -1vh;
 		    margin-top: 1.5vh;
 			transform: translateX(6vh) !important;
+			display: none !important;
+			display: none !important;
 		}
 
 		.old-wanted {
