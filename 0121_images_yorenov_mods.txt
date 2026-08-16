@@ -1273,12 +1273,14 @@ window.yorenovNewHudAssets = {
 		}
 
 		.old-money {
-			transform: translateX(10vh) !important;
+			transform: translateX(11vh) !important;
+			margin-top: 3vh;
+			margin-bottom: 3vh;
 		    justify-content: flex-end;
 		    font-family: "Oslo-Black";
 		    font-weight: 900;
 		    font-style: Oslo;
-		    font-size: 3.1vh;
+		    font-size: 3vh;
 		    text-shadow: 0 0 .46vh #00000080;
 		}
 
