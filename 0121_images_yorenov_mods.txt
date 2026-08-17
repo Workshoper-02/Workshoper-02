@@ -577,22 +577,22 @@ window.yorenovNewHudAssets = {
 		/* === ПОЛОСКИ === */
 		.old-param.health .old-progress__value {
 			background-color: #ed2e2e;
-			box-shadow: #ed2e2e80 0 0 .46vh 0;
+			box-shadow: #ed2e2e80 0 0 .55vh 0;
 		}
 
 		.old-param.armour .old-progress__value {
 			background-color: #526ee6;
-			box-shadow: #526ee680 0 0 .46vh 0;
+			box-shadow: #526ee680 0 0 .55vh 0;
 		}
 
 		.old-param.hunger .old-progress__value {
 			background-color: #ff872e;
-			box-shadow: #ff892e4d 0 0 .46vh 0;
+			box-shadow: #ff892e4d 0 0 .55vh 0;
 		}
 
 		.old-param.breath .old-progress__value {
 			background-color: #fff;
-			box-shadow: #ffffff80 0 0 .46vh 0;
+			box-shadow: #ffffff80 0 0 .55vh 0;
 		}
 
 		/* === ИКОНКИ === */
@@ -1069,8 +1069,8 @@ window.yorenovNewHudAssets = {
 		    display: flex;
 		    justify-content: center;
 		    align-items: center;
-		    border-radius: 2vh;
-		    border: 0.65vh solid #000000 !important
+		    border-radius: 0vh;
+		    border: 0.65vh solid #00000000 !important
 		}
 
 		body #app .hud-radmir-radar__map {
