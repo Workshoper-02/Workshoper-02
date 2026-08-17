@@ -5,7 +5,7 @@ window.yorenovNewHudAssets = {
 		.old-logo img {
 		    width: 20vh;
 		    height: 6.2vh;
-		    margin-right: -2vh;
+		    margin-right: -1vh;
 		}
 
 		/* ------- х2 х3 ------- */
