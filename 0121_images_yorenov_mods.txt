@@ -1267,7 +1267,7 @@ window.yorenovNewHudAssets = {
 		}
 
 		.old-params {
-		    height: 13.5vh;
+		    height: 15vh;
 		    position: relative;
 		    z-index: 1;
 		}
