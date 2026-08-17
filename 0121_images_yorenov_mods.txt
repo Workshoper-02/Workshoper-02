@@ -1346,6 +1346,7 @@ window.yorenovNewHudAssets = {
 			border: 0.1vh solid rgba(255, 255, 255, 0.7);
 			border-radius: 0.5vh;
 			box-shadow:0 0 0.35vh rgba(255, 255, 255, 0.6), 0 0 0.8vh rgba(255, 255, 255, 0.25);
+			box-sizing: border-box;
 		}
 
 		.old-param.breath {
