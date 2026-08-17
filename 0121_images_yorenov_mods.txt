@@ -1333,7 +1333,7 @@ window.yorenovNewHudAssets = {
 		    font-family: "GothamPro Light Italic";
 		    font-weight: 300;
 		    font-style: italic;
-		    width: 4vh;
+		    width: 3.24vh;
 		    font-size: 1.67vh;
 		    text-shadow: 0 0 .46vh #000000b3;
 		}
