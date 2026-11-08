@@ -11,7 +11,7 @@ window.yorenovNewHudAssets = {
 		/* ------- х2 х3 ------- */
 
 		body .old-bonus {
-		    background: #D7AEC9EF;
+		    background: #000000ef;
 		    font-style: normal;
 		}
 
@@ -33,7 +33,7 @@ window.yorenovNewHudAssets = {
 
 		/* ------- Окна ------- */
 		#app .modal-container-wrapper {
-		    background: rgba(215, 174, 201, 0.8) !important;
+		    background: rgba(0, 0, 0, 0.8) !important;
 		    border: 0.19vh solid #ffffff0d;
 		    border-radius: 2.5vh !important;
 		}
@@ -184,24 +184,24 @@ window.yorenovNewHudAssets = {
 
 		body .window-table__item:before {
 		    border-radius: 3vh;
-		    background: linear-gradient(rgba(215, 174, 201, 0.161), rgba(215, 174, 201, 0.161))
+		    background: linear-gradient(rgba(59, 59, 59, 0.161), rgba(59, 59, 59, 0.161))
 		}
 
 		body .window-table__item:after {
-		    background: rgba(215, 174, 201, 0.161);
+		    background: rgba(59, 59, 59, 0.161);
 		    border-radius: 3vh;
 		}
 
 		body .window-table__item.selected {
 		    background: #ffffff;
-		    color: #D7AEC9CD;
+		    color: #000000cd;
 		    border: .09vh solid #f4f1e100
 		}
 
 		body .window-button {
 		    border-radius: 2vh;
 		    color: #ffffff;
-		    background: rgba(215, 174, 201, 0.161);
+		    background: rgba(59, 59, 59, 0.161);
 		}
 
 		body .window-table__item:hover {
@@ -211,12 +211,12 @@ window.yorenovNewHudAssets = {
 
 		body .window-table__item.selected:hover {
 		    background: #ffffff;
-		    color: #D7AEC9CD;
+		    color: #000000cd;
 		    border: 0.09vh solid #f4f1e100;
 		}
 
 		#app .window-button:hover {
-		    color: #D7AEC9CD;
+		    color: #000000cd;
 		    background: #fff
 		}
 
@@ -234,7 +234,7 @@ window.yorenovNewHudAssets = {
 
 		/* ------- Чат ------- */
 		#app .radmir-chat-input__input {
-		    background: rgb(215 174 201 / 80%) !important;
+		    background: rgb(0 0 0 / 80%) !important;
 		    border-radius: 11px !important
 		}
 
@@ -272,7 +272,7 @@ window.yorenovNewHudAssets = {
 		    border-radius: 10px;
 		    height: 613px;
 		    width: 1283px;
-		    background: #D7AEC9BA !important
+		    background: #000000ba !important
 		}
 
 		#app .trade-items {
@@ -290,13 +290,13 @@ window.yorenovNewHudAssets = {
 		}
 
 		#app .inventory-container__info__container {
-		    background: linear-gradient(45deg, #D7AEC9EF) !important;
+		    background: linear-gradient(45deg, #000000ef) !important;
 		}
 
 		#app .inventory-action__modal,
 		#app .inventory-extra__container,
 		#app .inventory-main {
-		    background: linear-gradient(45deg, #D7AEC9EF);
+		    background: linear-gradient(45deg, #000000ef);
 		}
 
 		#app .inventory-main__after,
@@ -307,7 +307,7 @@ window.yorenovNewHudAssets = {
 		#app .inventory-extra__container,
 		#app .inventory-main {
 		    padding: 2vh;
-		    background: rgb(215 174 201 / 80%);
+		    background: rgb(0 0 0 / 80%);
 		    border-radius: 1.1vh;
 		    border: 0;
 		}
@@ -330,12 +330,12 @@ window.yorenovNewHudAssets = {
 		#app .inventory-container__box {
 		    border-radius: 1vh;
 		    border: .1vh solid #ffffff26;
-		    background: radial-gradient(#D7AEC903, #ffffff26 150%);
+		    background: radial-gradient(#00000003, #ffffff26 150%);
 		}
 
 		#app .inventory-container__slot {
 		    border-radius: 1vh;
-		    background: radial-gradient(#D7AEC903, #ffffff33);
+		    background: radial-gradient(#00000003, #ffffff33);
 		}
 
 		#app .inventory-capacity__bar__fill,
@@ -359,13 +359,13 @@ window.yorenovNewHudAssets = {
 		#app .inventory-container__slot:before {
 		    border-radius: 1vh;
 		    border: .1vh solid #f4f1e1;
-		    background: radial-gradient(#D7AEC903, #ffffffcc 150%);
+		    background: radial-gradient(#00000003, #ffffffcc 150%);
 		}
 
 		.inventory-container__info__container {
 		    border: none !important;
 		    padding-top: .8vh !important;
-		    background: rgb(215 174 201 / 80%) !important;
+		    background: rgb(0 0 0 / 80%) !important;
 		    border-radius: 1.1vh !important;
 		    overflow: hidden;
 		}
@@ -375,7 +375,7 @@ window.yorenovNewHudAssets = {
 		    height: 4vh !important;
 		    border-radius: 1vh !important;
 		    border: .1vh solid #ffffff26 !important;
-		    background: radial-gradient(#D7AEC903, #ffffff26) !important;
+		    background: radial-gradient(#00000003, #ffffff26) !important;
 		}
 
 		#app .inventory-wear__bar {
@@ -384,7 +384,7 @@ window.yorenovNewHudAssets = {
 
 		#app .inventory-action__modal {
 		    padding: 2vh;
-		    background: rgb(215 174 201 / 80%);
+		    background: rgb(0 0 0 / 80%);
 		    border-radius: 1.1vh;
 		}
 
@@ -433,17 +433,17 @@ window.yorenovNewHudAssets = {
 		}
 
 		#app .player-interaction__inner {
-		    background: #D7AEC980;
-		    border: .09vh solid #D7AEC9C2
+		    background: #00000080;
+		    border: .09vh solid #000000c2
 		}
 
 		#app .player-interaction-layer {
-		    background: rgb(215 174 201 / 80%);
+		    background: rgb(0 0 0 / 80%);
 		    border: none
 		}
 
 		#app .player-interaction__container {
-		    background: rgb(215 174 201 / 80%);
+		    background: rgb(0 0 0 / 80%);
 		    border: none
 		}
 
@@ -463,15 +463,15 @@ window.yorenovNewHudAssets = {
 		}
 
 		#app .player-interaction-favorite {
-		    background: rgb(215 174 201 / 80%)
+		    background: rgb(0 0 0 / 80%)
 		}
 
 		#app .player-interaction-favorite:hover {
-		    background: rgba(215, 174, 201, .8)
+		    background: rgba(63, 63, 63, .8)
 		}
 
 		#app .container {
-		    background: rgb(215 174 201 / 80%)
+		    background: rgb(0 0 0 / 80%)
 		}
 
 		#app .vue3-slider .track-filled,
@@ -485,7 +485,7 @@ window.yorenovNewHudAssets = {
 
 		/* ------- Меню заправки ------- */
 		#app .fuel__container {
-		    background: #D7AEC9CC
+		    background: #000000cc
 		}
 
 		#app .fuel__button .text:before {
@@ -540,12 +540,12 @@ window.yorenovNewHudAssets = {
 		.fuel__class-col:hover {
 		    background: #fff !important;
 		    box-shadow: 0 12px 22px #ffffff14 !important;
-		    color: #D7AEC9 !important
+		    color: #000 !important
 		}
 
 		#app .fuel__button {
-		    background: linear-gradient(185.93deg, #fff -22.13%, #D7AEC9 122.51%) !important;
-		    color: #D7AEC9 !important
+		    background: linear-gradient(185.93deg, #fff -22.13%, #e6e6e6 122.51%) !important;
+		    color: #000 !important
 		}
 
 		#app .fuel__button:hover {
@@ -567,7 +567,7 @@ window.yorenovNewHudAssets = {
 
 		#app .death {
 		    font-style: italic;
-		    background: #D7AEC9BA !important
+		    background: #000000ba !important
 		}
 
 		#app .death-timer {
